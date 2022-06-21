@@ -1,3 +1,10 @@
+# Descripcion de la aplicacion web
+
+Esta aplicacion web esta conformada por 3 modulos:
+el primero que conforma los usuarios que se pueden editar
+el segundo que se conforma por las publicaciones por usuario
+y el tercero que se conforma por albums por usuario
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
